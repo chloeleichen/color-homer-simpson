@@ -21,7 +21,7 @@ Follow me: [Twitter](https://twitter.com/chloechenlei),[GitHub](https://github.c
 
 Thanks to: 
 [Interact.js](interactjs.io/)
-http://tympanus.net/codrops/2015/04/22/interactive-drag-drop-coloring-concept/
+
 [Interactive Drag and Drop Coloring Concept](http://tympanus.net/codrops/2015/04/22/interactive-drag-drop-coloring-concept/)
 
 
