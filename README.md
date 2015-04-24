@@ -6,7 +6,8 @@ The is a lightweight javascript plugin that allow you to color Homer Simpson by 
 
 You can print your work when you are finished. 
 
-<strong>[Demo](http://chloechen.io/color-homer-simpson/)</strong>
+[Demo](http://chloechen.io/color-homer-simpson/)
+=========
 
 It works by simply adding class "paint-area" into the html, then the container becomes colorable. 
 
