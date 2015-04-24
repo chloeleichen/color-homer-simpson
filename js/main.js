@@ -1,12 +1,10 @@
 /**
  * main.js
- * http://www.codrops.com
+ * http://www.chloechen.io
  *
  * Licensed under the MIT license.
  * http://www.opensource.org/licenses/mit-license.php
  * 
- * Copyright 2015, Codrops
- * http://www.codrops.com
  */
  (function() {
 	//The Document.documentElement read-only property returns the Element that is the root element of the document (for example, the <html> element for HTML documents).
