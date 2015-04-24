@@ -5,7 +5,13 @@
 .clearfix:after { clear: both; }
 
 body {
-	background: #525252;
+	background:
+radial-gradient(black 15%, transparent 16%) 0 0,
+radial-gradient(black 15%, transparent 16%) 8px 8px,
+radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 0 1px,
+radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 8px 9px;
+background-color:#282828;
+background-size:16px 16px;
 	color: #fff;
 	font-weight: 500;
 	font-size: 1em;
@@ -377,14 +383,14 @@ a{
 	margin: 5px;
 }
 
-.color-1 { background: #333; color: #333;}
+.color-1 { background: #000; color: #000;}
 .color-2 { background: #f0f0f0; color: #f0f0f0; }
-.color-3 { background: #c0c3d5; color: #c0c3d5; }
+.color-3 { background: #6D4C41; color: #6D4C41; }
 .color-4 { background: #5FA1E0; color: #5FA1E0; }
-.color-5 { background: #c1d5c0; color: #c1d5c0; }
+.color-5 { background: #D500F9; color: #D500F9; }
 .color-6 { background: #47AE73; color: #47AE73; }
-.color-7 { background: #eae7c4; color: #eae7c4; }
-.color-8 { background: #FB6964; color: #FB6964; }
+.color-7 { background: #FFEB3B; color: #FFEB3B; }
+.color-8 { background: #D32F2F; color: #D32F2F; }
 
 .drag-element {
 	display: block;
@@ -591,7 +597,7 @@ a{
 .info {
 	width: 90%;
 	max-width: 500px;
-	background: #333;
+	background: #4490DB;
 	padding: 2.5em 2em;
 	font-size: 15px;
 	line-height: 1.5;

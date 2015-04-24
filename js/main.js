@@ -195,9 +195,13 @@
 }
 
 function resetColors() {
-	[].slice.call(document.querySelectorAll('.paint-svg')).forEach(function(el) {
-		el.setAttribute("fill", "#fafafa");
-	});
+	[].slice.call(document.querySelectorAll('.paint-area')).forEach(function(el) {
+			el.style[classie.has(el, 'paint-area--text') ? 'color' : 'background-color'] = '';
+			el.setAttribute('fill', " #fafafa");
+			el.setAttribute('stroke', " #999999");
+			
+
+		});
 }
 
 init();

@@ -178,18 +178,3 @@
 
 })();
 
-if( type === 'svg') {
-				var changeFill = function() {
-					// if( ev.target != this) return;
-					this.removeEventListener(transEndEventName, onEndTransCallbackFn);
-					// set the color
-					el.setAttribute("fill", color);
-					el.setAttribute("stroke", color);
-					// remove SVG element
-					el.removeChild(dummy);
-					setTimeout(function() { classie.remove(el, 'paint--active'); }, 25);
-				};
-				el.style.transition = el.style.MSTransitionEnd = el.style.OTransition= el.style.MozTransition = el.style.WebkitTransition = "none";
-				el.style.transition = el.style.MSTransitionEnd = el.style.OTransition= el.style.MozTransition = el.style.WebkitTransition = "fill 0.8s ease-in-out, stroke 0.8s ease-in-out";
-				setTimeout(function(){changeFill();}, 200);
-			}
