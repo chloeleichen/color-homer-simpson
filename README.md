@@ -19,6 +19,9 @@ Follow me: [Twitter](https://twitter.com/chloechenlei),[GitHub](https://github.c
 
 [SVG Homer Simpson Source](https://github.com/In-Loco-Media/svg_geometry/blob/master/spec/svg_geometry/files/homer-simpson.svg)
 
-Thanks to: http://tympanus.net/codrops/2015/04/22/interactive-drag-drop-coloring-concept/
+Thanks to: 
+[Interact.js](interactjs.io/)
+http://tympanus.net/codrops/2015/04/22/interactive-drag-drop-coloring-concept/
+[Interactive Drag and Drop Coloring Concept](http://tympanus.net/codrops/2015/04/22/interactive-drag-drop-coloring-concept/)
 
 
