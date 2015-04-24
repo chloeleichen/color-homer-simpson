@@ -5,7 +5,8 @@ The is a lightweight javascript plugin that allow you to color Homer Simpson by 
 
 You can print your work when you are finished. 
 
-Simple add class "paint-area" into your html, you can make that container colorable. 
+It works by simply adding class "paint-area" into the html, then the container becomes colorable. 
+
 To color svg, add class "paint-area--svg" in addition to "paint-area". 
 To color text, add class "paint-area--text"
 in addition to "paint-area".
