@@ -18,6 +18,7 @@ in addition to "paint-area".
 ![color-homer-simpson](http://chloechen.io/color-homer-simpson/img/homer.png)
 
 <strong>[Make sure you check out the live demo here](http://chloechen.io/color-homer-simpson/)</strong>
+
 Follow me: [Twitter](https://twitter.com/chloechenlei),[GitHub](https://github.com/chloeleichen)
 
 [SVG Homer Simpson Source](https://github.com/In-Loco-Media/svg_geometry/blob/master/spec/svg_geometry/files/homer-simpson.svg)
