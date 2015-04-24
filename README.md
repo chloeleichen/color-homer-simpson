@@ -21,9 +21,10 @@ in addition to "paint-area".
 
 Follow me: [Twitter](https://twitter.com/chloechenlei),[GitHub](https://github.com/chloeleichen)
 
-[SVG Homer Simpson Source](https://github.com/In-Loco-Media/svg_geometry/blob/master/spec/svg_geometry/files/homer-simpson.svg)
 
 Thanks to: 
+
+[SVG Homer Simpson Source](https://github.com/In-Loco-Media/svg_geometry/blob/master/spec/svg_geometry/files/homer-simpson.svg)
 
 [Interact.js](interactjs.io/)
 
