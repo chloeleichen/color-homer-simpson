@@ -14,6 +14,8 @@ To color svg, add class "paint-area--svg" in addition to "paint-area".
 To color text, add class "paint-area--text"
 in addition to "paint-area".
 
+![color-homer-simpson](http://chloechen.io/color-homer-simpson/img/homer.png)
+
 
 Follow me: [Twitter](https://twitter.com/chloechenlei),[GitHub](https://github.com/chloeleichen)
 
