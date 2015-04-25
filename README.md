@@ -4,7 +4,7 @@ Let's Color Homer Simpson !
 
 The is a lightweight javascript plugin that allow you to color Homer Simpson by dragging and dropping color onto him. You can also color text and html containers. 
 
-You can print your work when you are finished. 
+You can then download your artwork as a png file. 
 
 <strong>[Try it here](http://chloechen.io/color-homer-simpson/)</strong>
 
@@ -25,6 +25,8 @@ Follow me: [Twitter](https://twitter.com/chloechenlei),[GitHub](https://github.c
 Thanks to: 
 
 [SVG Homer Simpson Source](https://github.com/In-Loco-Media/svg_geometry/blob/master/spec/svg_geometry/files/homer-simpson.svg)
+
+[saveSvgAsPng](https://github.com/exupero/saveSvgAsPng)
 
 [Interact.js](interactjs.io/)
 

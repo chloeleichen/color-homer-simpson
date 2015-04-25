@@ -12,9 +12,7 @@
 		<link rel="stylesheet" type="text/css" href="css/normalize.css" />
 		<link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.3.0/css/font-awesome.min.css" />
 		<link rel="stylesheet" type="text/css" href="css/style.css" />
-		<link rel="stylesheet" type="text/css" href="css/marge.css" />
-		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-
+		<script src="js/saveSvgAsPng.js"></script>
 		<script src="js/modernizr.custom.js"></script>
 	</head>
 	<body>
@@ -32,10 +30,10 @@
 								<i class="fa fa-heart"></i><span>Homer Simpson</span>
 							</span>
 							<nav class="mockup-nav">
-								<a class="paint-area paint-area--text" onclick="window.print()">Print</a>
+								<a class="paint-area paint-area--text" id ="save">Download Your Homer</a>
 								<a href="http://chloechen.io"class="paint-area paint-area--text">Homepage</a>
-								<a href="" class="paint-area paint-area--text">Github</a>
-								<a href="" class="paint-area paint-area--text">Follow me on Twitter </a>
+								<a href="https://github.com/chloeleichen/color-homer-simpson" class="paint-area paint-area--text">Github</a>
+								<a href="https://twitter.com/chloechenlei" class="paint-area paint-area--text">Follow me on Twitter </a>
 							</nav>
 						</div>
 					</header>
@@ -89,7 +87,7 @@
 			<div class="info-wrap">
 				<div class="info">
 					<h3>Color Homer!</h3>
-					<p><img src="img/drag.svg" alt="drag icon"/>Drag any color from the left toolbar to any part of Homer. A red outline will indicate a droppable element. you can also color the text and navigation area</p>
+					<p><img src="img/drag.svg" alt="drag icon"/>Drag any color from the left toolbar to Homer. A red outline will apear if an element is colorable. you can also color the text and navigation area</p>
 					<p><img src="img/time.svg" alt="drag icon"/>On mobile, wait a tiny bit until you drag the color drop.</p>
 					<button class="info-close">Got it!</button>
 				</div>
@@ -98,5 +96,6 @@
 		<script src="js/classie.js"></script>
 		<script src="js/interact.js"></script>
 		<script src="js/main.js"></script>
+		<script src="js/helper.js"></script>
 	</body>
 </html>
